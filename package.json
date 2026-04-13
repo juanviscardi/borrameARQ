@@ -1,0 +1,18 @@
+{
+    "name": "rat2-pipeline",
+    "version": "1.0.0",
+    "description": "Data generation and pipeline processing system",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "client": "node client.js",
+        "test": "node client.js & node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "axios": "^1.6.0"
+    }
+}
