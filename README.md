@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Sistema educativo que implementa un cliente-servidor para procesar datos a través de un pipeline de filtros. El servidor valida los datos, inicia el pipeline y responde inmediatamente mientras procesa los datos de forma asincronizada.
+Poner lo que piden
 
 ## Estructura del Proyecto
 
@@ -123,7 +123,7 @@ Editar en [validator.js](validator.js):
 ```javascript
 static config = {
   minLength: 1,
-  maxLength: 500,    // Cambiar aquí
+  maxLength: 500,    
   allowEmpty: false
 };
 ```
